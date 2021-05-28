@@ -1,0 +1,69 @@
+{
+    "products": [{
+        "error":"",
+        "result":
+        
+        {
+        "total":4,
+        "page":1,
+        "pages":1,
+        "data":[{
+            "id":1,
+            "id_cat":1,
+            "name":"Torta de Limao",
+            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/products\/tortachocolate.jpg",
+            "price":93,
+            "ingredients":"Limao",
+            "points":1
+            },
+        
+            {
+            "id":3,
+            "id_cat":2,
+            "name":"Donut de Frutas Vermelhas",
+            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/products\/donutflocos.jpg",
+            "price":0.8,
+            "ingredients":"amora, Framboesa, Morango",
+            "points":1},
+        
+            {
+            "id":2,
+            "id_cat":1,
+            "name":"Torta de Morango",
+            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/products\/tortamorango.jpg",
+            "price":128.12,
+            "ingredients":"Morango",
+            "points":0},
+        
+            {
+            "id":4,
+            "id_cat":2,
+            "name":"Donut de Chocolate",
+            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/products\/donutchocolate.jpg",
+            "price":1.5,
+            "ingredients":"Chocolate",
+            "points":0}]}}],
+
+            "categories": [
+                {"error":"",
+                    "result":
+                    [
+                        {
+                            "id":1,
+                            "name":"Tortas",
+                            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/categories\/pie.png"
+                        },
+                    
+                        {
+                            "id":2,
+                            "name":"Donuts",
+                            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/categories\/donut.png"
+                        },
+                    
+                        {
+                            "id":3,
+                            "name":"Cookies",
+                            "image":"https:\/\/api.b7web.com.br\/devsfood\/media\/categories\/cookies.png"
+                        }]}
+            ]
+}
